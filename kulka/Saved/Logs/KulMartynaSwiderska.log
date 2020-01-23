@@ -1598,3 +1598,731 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.23-21.21.14:851][165]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Minimal_Default_Auto874E84D9948E4148E6B97C5AEB3B59B87.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.umap'
 [2020.01.23-21.21.14:855][165]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.422
 [2020.01.23-21.21.14:855][165]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.422
+[2020.01.23-21.26.04:225][447]LogSlate: Window 'Minimal_Default' being destroyed
+[2020.01.23-21.26.04:318][447]LogSlate: Window 'Minimal_Default' being destroyed
+[2020.01.23-21.26.04:322][447]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-21.26.08:865][700]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.01.23-21.26.09:167][700]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Minimal_Default1C39386543D3526DD141AD8534BA95B5.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.01.23-21.26.09:312][700]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Minimal_Default_BuiltData65CF27884583DC92E154B4AC611B4856.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.01.23-21.26.22:204][357]LogRenderer: Reallocating scene render targets to support 932x448 Format 10 NumSamples 1 (Frame:338893).
+[2020.01.23-21.26.22:242][358]LogRenderer: Reallocating scene render targets to support 932x456 Format 10 NumSamples 1 (Frame:338895).
+[2020.01.23-21.26.22:287][359]LogRenderer: Reallocating scene render targets to support 932x472 Format 10 NumSamples 1 (Frame:338897).
+[2020.01.23-21.26.22:333][360]LogRenderer: Reallocating scene render targets to support 932x484 Format 10 NumSamples 1 (Frame:338899).
+[2020.01.23-21.26.22:374][361]LogRenderer: Reallocating scene render targets to support 932x496 Format 10 NumSamples 1 (Frame:338901).
+[2020.01.23-21.26.22:414][362]LogRenderer: Reallocating scene render targets to support 932x512 Format 10 NumSamples 1 (Frame:338903).
+[2020.01.23-21.26.22:454][363]LogRenderer: Reallocating scene render targets to support 932x524 Format 10 NumSamples 1 (Frame:338905).
+[2020.01.23-21.26.22:495][364]LogRenderer: Reallocating scene render targets to support 932x540 Format 10 NumSamples 1 (Frame:338907).
+[2020.01.23-21.26.22:548][365]LogRenderer: Reallocating scene render targets to support 932x552 Format 10 NumSamples 1 (Frame:338909).
+[2020.01.23-21.26.22:601][366]LogRenderer: Reallocating scene render targets to support 932x556 Format 10 NumSamples 1 (Frame:338911).
+[2020.01.23-21.49.13:955][452]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.23-21.49.16:883][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.49.49:675][ 84]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.23-21.49.59:949][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.50.14:809][764]Cmd: TRANSACTION UNDO
+[2020.01.23-21.50.14:809][764]LogEditorTransaction: Undo Edit Z
+[2020.01.23-21.50.15:192][789]Cmd: TRANSACTION UNDO
+[2020.01.23-21.50.15:192][789]LogEditorTransaction: Undo Edit Y
+[2020.01.23-21.50.15:543][816]Cmd: TRANSACTION UNDO
+[2020.01.23-21.50.15:543][816]LogEditorTransaction: Undo Edit X
+[2020.01.23-21.50.26:845][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.51.03:438][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2020.01.23-21.51.03:659][ 83]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Minimal_Default_Auto93FF90DA648CA6A58A6A0BD962CE9722D.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.umap'
+[2020.01.23-21.51.03:662][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.312
+[2020.01.23-21.51.03:662][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.312
+[2020.01.23-21.51.19:986][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.52.46:212][265]Cmd: MODE GRID=0
+[2020.01.23-21.52.48:804][437]Cmd: MODE GRID=1
+[2020.01.23-21.53.56:727][464]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-21.53.59:199][647]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-21.54.11:808][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.55.23:797][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.55.29:118][755]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.23-21.55.33:245][ 13]Cmd: TRANSACTION UNDO
+[2020.01.23-21.55.33:245][ 13]LogEditorTransaction: Undo Brush Add
+[2020.01.23-21.55.33:928][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.55.38:159][287]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.23-21.55.44:567][701]Cmd: TRANSACTION UNDO
+[2020.01.23-21.55.44:568][701]LogEditorTransaction: Undo Brush Add
+[2020.01.23-21.55.45:323][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.55.48:370][938]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.23-21.55.57:501][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.56.12:767][  0]Cmd: TRANSACTION UNDO
+[2020.01.23-21.56.12:767][  0]LogEditorTransaction: Undo Scale Actors
+[2020.01.23-21.56.16:940][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.56.28:021][957]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-21.56.43:153][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.56.48:672][750]LogEditorViewport: Clicking Background
+[2020.01.23-21.56.49:408][825]LogEditorViewport: Clicking Background
+[2020.01.23-21.56.50:350][920]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-21.57.20:518][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-21.57.25:706][899]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-21.57.27:354][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.57.27:428][ 14]Cmd: MODE GRID=0
+[2020.01.23-21.57.31:175][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.57.31:247][286]Cmd: MODE GRID=1
+[2020.01.23-21.57.36:375][648]Cmd: TRANSACTION UNDO
+[2020.01.23-21.57.36:376][648]LogEditorTransaction: Undo Move Actors
+[2020.01.23-21.57.36:996][684]Cmd: TRANSACTION UNDO
+[2020.01.23-21.57.36:996][684]LogEditorTransaction: Undo Move Actors
+[2020.01.23-21.57.37:606][722]Cmd: TRANSACTION UNDO
+[2020.01.23-21.57.37:606][722]LogEditorTransaction: Undo Move Actors
+[2020.01.23-21.57.56:207][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.58.02:954][772]Cmd: TRANSACTION UNDO
+[2020.01.23-21.58.02:954][772]LogEditorTransaction: Undo Set Location
+[2020.01.23-21.58.16:008][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.58.35:936][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.58.50:189][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-21.59.34:739][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.00.57:737][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.02.12:973][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.02.18:736][743]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2020.01.23-22.02.18:736][743]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.02.20:223][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.02.27:753][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.03.08:922][796]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.23-22.03.14:437][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.03.18:709][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.03.20:497][477]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.23-22.03.50:514][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.03.52:269][492]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.23-22.03.53:838][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.03.56:590][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.04.04:711][220]Cmd: DELETE
+[2020.01.23-22.04.04:711][220]Cmd: ACTOR DELETE
+[2020.01.23-22.04.04:717][220]LogEditorActor: Deleted Actor: Brush
+[2020.01.23-22.04.04:770][220]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.01.23-22.04.04:773][220]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2020.01.23-22.04.06:377][336]Cmd: TRANSACTION UNDO
+[2020.01.23-22.04.06:377][336]LogEditorTransaction: Undo Delete Actors
+[2020.01.23-22.04.06:391][336]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_177' invalid (44 verts, 0 indices).
+[2020.01.23-22.04.06:391][336]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_177.BodySetup_0 when we are unable to.
+[2020.01.23-22.04.06:391][336]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_178, Buffer: 0, Index Count: 0, Element: 3
+[2020.01.23-22.04.06:392][336]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_178' invalid (44 verts, 0 indices).
+[2020.01.23-22.04.06:392][336]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_178.BodySetup_0 when we are unable to.
+[2020.01.23-22.04.06:392][336]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_179' invalid (44 verts, 0 indices).
+[2020.01.23-22.04.06:392][336]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_179.BodySetup_0 when we are unable to.
+[2020.01.23-22.04.06:392][336]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_180' invalid (44 verts, 0 indices).
+[2020.01.23-22.04.06:392][336]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_180.BodySetup_0 when we are unable to.
+[2020.01.23-22.04.08:101][441]Cmd: TRANSACTION UNDO
+[2020.01.23-22.04.08:101][441]LogEditorTransaction: Undo Select All Adjacent
+[2020.01.23-22.04.12:818][712]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.23-22.04.29:986][785]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.23-22.05.11:553][938]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.01.23-22.05.11:869][938]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Minimal_Default_Auto01F974FBB432D3F6A5F6F14A7CC1BF2FF.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0.umap'
+[2020.01.23-22.05.11:872][938]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.378
+[2020.01.23-22.05.11:872][938]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.378
+[2020.01.23-22.05.22:315][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.05.28:424][330]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.01.23-22.05.30:179][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.05.33:931][627]Cmd: TRANSACTION UNDO
+[2020.01.23-22.05.33:931][627]LogEditorTransaction: Undo Create Actors
+[2020.01.23-22.05.33:943][627]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_186' invalid (80 verts, 0 indices).
+[2020.01.23-22.05.33:944][627]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_186.BodySetup_0 when we are unable to.
+[2020.01.23-22.05.34:857][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.05.45:579][378]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2020.01.23-22.05.47:835][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.05.52:139][770]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.23-22.06.31:740][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.06.53:714][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.06.59:371][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.07.10:525][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.07.12:452][283]Cmd: TRANSACTION UNDO
+[2020.01.23-22.07.12:452][283]LogEditorTransaction: Undo Set Location
+[2020.01.23-22.07.14:003][366]Cmd: TRANSACTION UNDO
+[2020.01.23-22.07.14:003][366]LogEditorTransaction: Undo Set Location
+[2020.01.23-22.07.27:043][198]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.23-22.07.45:071][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.07.45:957][398]Cmd: TRANSACTION UNDO
+[2020.01.23-22.07.45:957][398]LogEditorTransaction: Undo Set Location
+[2020.01.23-22.08.11:819][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.08.22:903][663]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.08.23:630][703]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.08.23:744][708]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.08.23:791][709]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.08.24:028][721]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.08.44:049][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.08.53:033][506]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.09.09:602][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.09.16:352][431]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.09.24:463][987]Cmd: TRANSACTION UNDO
+[2020.01.23-22.09.24:463][987]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.09.24:483][987]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-22.09.24:483][987]LogGeometryMode: Warning: Unable to resolve BoxBrush3 Brush in new BSP, see above
+[2020.01.23-22.09.24:483][987]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.09.27:567][167]LogSlate: FSceneViewport::OnFocusLost() reason 1
+[2020.01.23-22.10.13:065][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.10.35:700][432]Cmd: TRANSACTION UNDO
+[2020.01.23-22.10.35:700][432]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-22.10.36:209][458]Cmd: TRANSACTION UNDO
+[2020.01.23-22.10.36:209][458]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.10.36:735][491]Cmd: TRANSACTION UNDO
+[2020.01.23-22.10.36:736][491]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.10.37:215][519]Cmd: TRANSACTION UNDO
+[2020.01.23-22.10.37:215][519]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.10.37:750][551]Cmd: TRANSACTION UNDO
+[2020.01.23-22.10.37:750][551]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.10.42:877][871]LogEditorViewport: Clicking Background
+[2020.01.23-22.11.03:765][386]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2020.01.23-22.11.15:868][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.11.22:230][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.11.48:750][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.11.53:013][826]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2020.01.23-22.11.53:013][826]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.11.54:961][939]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2020.01.23-22.11.54:961][939]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.12.26:310][852]Cmd: TRANSACTION UNDO
+[2020.01.23-22.12.26:310][852]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.12.26:333][852]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-22.12.26:333][852]LogGeometryMode: Warning: Unable to resolve BoxBrush3 Brush in new BSP, see above
+[2020.01.23-22.12.26:333][852]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.12.32:277][205]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2020.01.23-22.12.32:277][205]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.12.45:886][875]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.23-22.12.53:669][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.12.54:720][388]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.23-22.12.54:731][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.01.23-22.12.54:731][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.23-22.12.54:731][388]PIE: New page: PIE session: Minimal_Default (24 sty 2020, 00:12:54)
+[2020.01.23-22.12.54:731][388]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.01.23-22.12.54:740][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008112s)
+[2020.01.23-22.12.54:741][388]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.01.23-22.12.54:741][388]LogPlayLevel: PIE: World Init took: (0.001859s)
+[2020.01.23-22.12.54:742][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.010154s)
+[2020.01.23-22.12.54:797][388]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.01.23-22.12.54:802][388]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.23-22.12.54:824][388]LogInit: FAudioDevice initialized.
+[2020.01.23-22.12.54:825][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.12.54:831][388]LogLoad: Game class is 'GameModeBase'
+[2020.01.23-22.12.54:833][388]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.01.23-23.12.54
+[2020.01.23-22.12.54:834][388]LogWorld: Bringing up level for play took: 0.001468
+[2020.01.23-22.12.54:834][388]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.01.23-22.12.54:837][388]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,44
+[2020.01.23-22.12.54:837][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.01.23-22.13.27:587][723]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.01.23-22.13.27:588][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.13.27:588][723]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.01.23-22.13.27:588][723]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.01.23-22.13.27:609][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.23-22.13.27:609][723]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.01.23-22.13.27:655][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.23-22.13.27:661][723]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.01.23-22.13.27:704][725]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.01.23-22.13.38:184][439]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.15.44:985][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.01.23-22.15.45:501][316]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Minimal_Default_Auto191F9AC6C4FC185052BA814BB7C53DD5B.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2020.01.23-22.15.45:504][316]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.595
+[2020.01.23-22.15.45:504][316]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.595
+[2020.01.23-22.16.51:744][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.16.59:495][276]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.17.00:833][394]LogEditorViewport: Clicking Background
+[2020.01.23-22.17.01:520][465]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.17.03:131][620]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.17.04:532][763]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.17.06:117][916]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.17.07:775][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.17.10:407][263]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.17.11:844][393]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.17.20:000][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.17.25:695][828]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.17.41:247][983]Cmd: TRANSACTION UNDO
+[2020.01.23-22.17.41:248][983]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.17.48:098][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.17.51:976][736]Cmd: TRANSACTION UNDO
+[2020.01.23-22.17.51:976][736]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.17.54:526][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.17.59:213][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.17.59:882][184]LogRenderer: Reallocating scene render targets to support 996x556 Format 10 NumSamples 1 (Frame:416213).
+[2020.01.23-22.17.59:933][185]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:416215).
+[2020.01.23-22.17.59:991][186]LogRenderer: Reallocating scene render targets to support 1120x556 Format 10 NumSamples 1 (Frame:416217).
+[2020.01.23-22.18.00:042][187]LogRenderer: Reallocating scene render targets to support 1132x556 Format 10 NumSamples 1 (Frame:416219).
+[2020.01.23-22.18.01:367][257]LogRenderer: Reallocating scene render targets to support 1132x588 Format 10 NumSamples 1 (Frame:416298).
+[2020.01.23-22.18.01:419][258]LogRenderer: Reallocating scene render targets to support 1132x624 Format 10 NumSamples 1 (Frame:416300).
+[2020.01.23-22.18.01:467][259]LogRenderer: Reallocating scene render targets to support 1132x668 Format 10 NumSamples 1 (Frame:416302).
+[2020.01.23-22.18.01:522][260]LogRenderer: Reallocating scene render targets to support 1132x684 Format 10 NumSamples 1 (Frame:416304).
+[2020.01.23-22.18.11:111][781]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2020.01.23-22.18.11:111][781]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.18.27:252][701]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2020.01.23-22.18.27:252][701]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.19.08:000][824]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2020.01.23-22.19.08:000][824]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.19.18:218][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.19.19:333][480]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-22.19.19:333][480]LogGeometryMode: Warning: Unable to resolve BoxBrush3 Brush in new BSP, see above
+[2020.01.23-22.19.19:333][480]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.19.19:983][518]Cmd: TRANSACTION UNDO
+[2020.01.23-22.19.19:983][518]LogEditorTransaction: Undo Edit Z
+[2020.01.23-22.19.22:481][646]Cmd: TRANSACTION UNDO
+[2020.01.23-22.19.22:481][646]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.19.22:506][646]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-22.19.22:506][646]LogGeometryMode: Warning: Unable to resolve BoxBrush3 Brush in new BSP, see above
+[2020.01.23-22.19.22:506][646]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.19.54:945][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.20.02:771][983]Cmd: TRANSACTION UNDO
+[2020.01.23-22.20.02:771][983]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.20.02:795][983]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-22.20.02:795][983]LogGeometryMode: Warning: Unable to resolve BoxBrush3 Brush in new BSP, see above
+[2020.01.23-22.20.02:795][983]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.20.09:418][350]LogGeometryMode: Warning: Unable to find BoxBrush6 Brush(s) in new BSP
+[2020.01.23-22.20.09:418][350]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.20.11:420][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.20.29:974][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.20.45:344][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.20.49:980][663]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2020.01.23-22.20.51:913][782]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2020.01.23-22.20.54:868][955]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.20.56:150][ 26]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.23-22.20.58:760][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.21.15:436][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.21.17:905][244]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.23-22.21.27:635][787]Cmd: POLY SELECT ADJACENT ALL
+[2020.01.23-22.21.33:298][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.21.38:804][405]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.21.42:443][677]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.21.45:982][922]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.21.51:632][253]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.22.01:363][848]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.22.04:708][101]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.22.21:635][334]Cmd: TRANSACTION UNDO
+[2020.01.23-22.22.21:635][334]LogEditorTransaction: Undo Rotate Actors
+[2020.01.23-22.22.22:061][353]Cmd: TRANSACTION UNDO
+[2020.01.23-22.22.22:061][353]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.22.22:074][353]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_473' invalid (152 verts, 0 indices).
+[2020.01.23-22.22.22:074][353]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_473.BodySetup_0 when we are unable to.
+[2020.01.23-22.22.22:074][353]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_474' invalid (152 verts, 0 indices).
+[2020.01.23-22.22.22:074][353]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_474.BodySetup_0 when we are unable to.
+[2020.01.23-22.22.22:074][353]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_475' invalid (152 verts, 0 indices).
+[2020.01.23-22.22.22:074][353]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_475.BodySetup_0 when we are unable to.
+[2020.01.23-22.22.22:075][353]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_476' invalid (152 verts, 0 indices).
+[2020.01.23-22.22.22:075][353]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_476.BodySetup_0 when we are unable to.
+[2020.01.23-22.22.22:075][353]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_477' invalid (152 verts, 0 indices).
+[2020.01.23-22.22.22:075][353]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_477.BodySetup_0 when we are unable to.
+[2020.01.23-22.22.23:190][423]Cmd: TRANSACTION UNDO
+[2020.01.23-22.22.23:190][423]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-22.22.27:500][721]Cmd: TRANSACTION UNDO
+[2020.01.23-22.22.27:500][721]LogEditorTransaction: Undo Rotate Actors
+[2020.01.23-22.22.36:512][419]Cmd: TRANSACTION UNDO
+[2020.01.23-22.22.36:512][419]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.22.39:510][636]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.22.46:264][182]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.22.52:646][700]Cmd: TRANSACTION UNDO
+[2020.01.23-22.22.52:646][700]LogEditorTransaction: Undo Reset Location
+[2020.01.23-22.23.01:902][393]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.23.07:796][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.23.09:865][980]Cmd: TRANSACTION UNDO
+[2020.01.23-22.23.09:865][980]LogEditorTransaction: Undo Reset Location
+[2020.01.23-22.23.29:808][490]Cmd: TRANSACTION UNDO
+[2020.01.23-22.23.29:808][490]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.23.31:254][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.24.20:915][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.24.52:898][662]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.25.18:893][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.25.31:667][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.25.31:818][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.01.23-22.25.32:116][ 29]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Minimal_Default8FB8EE6E4BDA087A637E0A9E14E16F2B.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.01.23-22.25.32:253][ 29]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Minimal_Default_BuiltData2C59409E4700CD5FE9693D944A8D4C02.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.01.23-22.25.33:156][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.25.42:689][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.26.40:905][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.26.47:713][158]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.26.50:805][409]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.27.03:832][460]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.27.13:695][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.27.49:868][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.27.54:781][424]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.28.01:366][882]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.28.02:818][976]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.28.06:745][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.28.56:810][524]Cmd: TRANSACTION UNDO
+[2020.01.23-22.28.56:810][524]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.28.57:328][556]Cmd: TRANSACTION UNDO
+[2020.01.23-22.28.57:328][556]LogEditorTransaction: Undo Marquee Select
+[2020.01.23-22.28.58:199][623]Cmd: TRANSACTION UNDO
+[2020.01.23-22.28.58:199][623]LogEditorTransaction: Undo Marquee Select
+[2020.01.23-22.28.58:691][660]Cmd: TRANSACTION UNDO
+[2020.01.23-22.28.58:691][660]LogEditorTransaction: Undo Marquee Select
+[2020.01.23-22.29.08:801][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.29.15:805][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.29.27:609][ 73]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.23-22.29.30:444][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.29.31:778][421]Cmd: MODE GRID=0
+[2020.01.23-22.29.32:150][451]Cmd: MODE GRID=1
+[2020.01.23-22.29.32:669][489]Cmd: MODE GRID=0
+[2020.01.23-22.29.36:046][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.29.36:156][755]Cmd: MODE GRID=1
+[2020.01.23-22.29.44:944][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.29.47:515][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.29.51:181][  6]Cmd: TRANSACTION UNDO
+[2020.01.23-22.29.51:181][  6]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.29.51:403][ 17]Cmd: TRANSACTION UNDO
+[2020.01.23-22.29.51:403][ 17]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-22.29.51:640][ 27]Cmd: TRANSACTION UNDO
+[2020.01.23-22.29.51:640][ 27]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.29.52:017][ 53]Cmd: TRANSACTION UNDO
+[2020.01.23-22.29.52:017][ 53]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-22.29.52:378][ 78]Cmd: TRANSACTION UNDO
+[2020.01.23-22.29.52:378][ 78]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.29.52:804][108]Cmd: TRANSACTION UNDO
+[2020.01.23-22.29.52:804][108]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.29.53:213][136]Cmd: TRANSACTION UNDO
+[2020.01.23-22.29.53:213][136]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.29.53:593][162]Cmd: TRANSACTION UNDO
+[2020.01.23-22.29.53:593][162]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.29.53:957][188]Cmd: TRANSACTION UNDO
+[2020.01.23-22.29.53:958][188]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.29.55:289][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.30.05:780][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.30.46:640][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.31.04:213][789]Cmd: EDCALLBACK SURFPROPS
+[2020.01.23-22.31.07:747][ 95]Cmd: TRANSACTION UNDO
+[2020.01.23-22.31.07:747][ 95]LogEditorTransaction: Undo Select Surface
+[2020.01.23-22.31.08:020][109]Cmd: TRANSACTION UNDO
+[2020.01.23-22.31.08:020][109]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-22.31.08:931][171]Cmd: TRANSACTION UNDO
+[2020.01.23-22.31.08:931][171]LogEditorTransaction: Undo Marquee Select
+[2020.01.23-22.31.41:328][774]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.31.45:717][118]Cmd: TRANSACTION UNDO
+[2020.01.23-22.31.45:717][118]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.23-22.31.52:148][554]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.32.18:203][310]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.32.42:751][ 36]Cmd: TRANSACTION UNDO
+[2020.01.23-22.32.42:751][ 36]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.32.42:774][ 36]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-22.32.42:774][ 36]LogGeometryMode: Warning: Unable to resolve BoxBrush12 Brush in new BSP, see above
+[2020.01.23-22.32.42:774][ 36]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.32.43:885][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.33.25:404][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.33.36:464][793]Cmd: TRANSACTION UNDO
+[2020.01.23-22.33.36:464][793]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.33.49:709][728]Cmd: TRANSACTION UNDO
+[2020.01.23-22.33.49:709][728]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.34.12:602][324]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush13)
+[2020.01.23-22.34.14:252][438]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.34.19:961][826]Cmd: TRANSACTION UNDO
+[2020.01.23-22.34.19:961][826]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.34.21:522][913]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.34.37:703][969]LogGeometryMode: Warning: Unable to find BoxBrush15 Brush(s) in new BSP
+[2020.01.23-22.34.37:703][969]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.34.53:869][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.35.00:504][506]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.35.22:072][931]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.35.24:243][ 77]LogGeometryMode: Warning: Unable to find BoxBrush14 Brush(s) in new BSP
+[2020.01.23-22.35.24:243][ 77]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.35.32:088][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.01.23-22.35.41:817][318]Cmd: TRANSACTION UNDO
+[2020.01.23-22.35.41:817][318]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.35.43:138][389]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.36.03:696][757]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.36.10:810][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.36.27:185][112]Cmd: TRANSACTION UNDO
+[2020.01.23-22.36.27:185][112]LogEditorTransaction: Undo Edit Source Angle
+[2020.01.23-22.36.56:287][782]Cmd: TRANSACTION UNDO
+[2020.01.23-22.36.56:287][782]LogEditorTransaction: Undo Edit Indirect Lighting Intensity
+[2020.01.23-22.36.58:039][871]Cmd: TRANSACTION UNDO
+[2020.01.23-22.36.58:039][871]LogEditorTransaction: Undo Edit Volumetric Scattering Intensity
+[2020.01.23-22.36.59:993][981]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.01.23-22.37.00:322][981]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Minimal_Default3D498B6B408AB61FC3C385953EA9E6C2.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.01.23-22.37.00:456][981]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Minimal_Default_BuiltData6A245B46454BC0A2FA8FB5AE1F0EC838.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.01.23-22.37.02:356][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.37.08:131][432]Cmd: TRANSACTION UNDO
+[2020.01.23-22.37.08:131][432]LogEditorTransaction: Undo Edit Light Source Angle
+[2020.01.23-22.37.09:650][507]Cmd: TRANSACTION UNDO
+[2020.01.23-22.37.09:650][507]LogEditorTransaction: Undo Edit Indirect Lighting Saturation
+[2020.01.23-22.37.19:859][ 96]Cmd: TRANSACTION UNDO
+[2020.01.23-22.37.19:859][ 96]LogEditorTransaction: Undo Edit Dynamic Shadow Distance StationaryLight
+[2020.01.23-22.37.37:337][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.37.45:146][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.01.23-22.38.02:840][594]Cmd: TRANSACTION UNDO
+[2020.01.23-22.38.02:840][594]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.38.02:866][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1036' invalid (500 verts, 0 indices).
+[2020.01.23-22.38.02:866][594]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1036.BodySetup_0 when we are unable to.
+[2020.01.23-22.38.02:866][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1037' invalid (500 verts, 0 indices).
+[2020.01.23-22.38.02:866][594]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1037.BodySetup_0 when we are unable to.
+[2020.01.23-22.38.02:866][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1038' invalid (500 verts, 0 indices).
+[2020.01.23-22.38.02:866][594]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1038.BodySetup_0 when we are unable to.
+[2020.01.23-22.38.02:866][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1039' invalid (500 verts, 0 indices).
+[2020.01.23-22.38.02:866][594]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1039.BodySetup_0 when we are unable to.
+[2020.01.23-22.38.02:867][594]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1040' invalid (500 verts, 0 indices).
+[2020.01.23-22.38.02:867][594]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1040.BodySetup_0 when we are unable to.
+[2020.01.23-22.38.04:962][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.38.10:606][991]Cmd: TRANSACTION UNDO
+[2020.01.23-22.38.10:606][991]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.38.11:566][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.38.27:557][834]Cmd: TRANSACTION UNDO
+[2020.01.23-22.38.27:557][834]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.38.27:586][834]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1036' invalid (500 verts, 0 indices).
+[2020.01.23-22.38.27:586][834]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1036.BodySetup_0 when we are unable to.
+[2020.01.23-22.38.27:586][834]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1037' invalid (500 verts, 0 indices).
+[2020.01.23-22.38.27:586][834]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1037.BodySetup_0 when we are unable to.
+[2020.01.23-22.38.27:586][834]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1038' invalid (500 verts, 0 indices).
+[2020.01.23-22.38.27:586][834]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1038.BodySetup_0 when we are unable to.
+[2020.01.23-22.38.27:586][834]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1039' invalid (500 verts, 0 indices).
+[2020.01.23-22.38.27:586][834]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1039.BodySetup_0 when we are unable to.
+[2020.01.23-22.38.27:587][834]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1040' invalid (500 verts, 0 indices).
+[2020.01.23-22.38.27:587][834]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1040.BodySetup_0 when we are unable to.
+[2020.01.23-22.38.27:592][834]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-22.38.27:592][834]LogGeometryMode: Warning: Unable to resolve BoxBrush10 Brush in new BSP, see above
+[2020.01.23-22.38.27:592][834]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.38.29:681][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.38.32:498][ 55]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-22.38.32:498][ 55]LogGeometryMode: Warning: Unable to resolve BoxBrush10 Brush in new BSP, see above
+[2020.01.23-22.38.32:498][ 55]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.38.32:776][ 70]Cmd: TRANSACTION UNDO
+[2020.01.23-22.38.32:776][ 70]LogEditorTransaction: Undo Edit Y
+[2020.01.23-22.38.36:234][226]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-22.38.36:234][226]LogGeometryMode: Warning: Unable to resolve BoxBrush10 Brush in new BSP, see above
+[2020.01.23-22.38.36:234][226]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.38.36:822][259]Cmd: TRANSACTION UNDO
+[2020.01.23-22.38.36:822][259]LogEditorTransaction: Undo Edit Z
+[2020.01.23-22.38.52:465][ 95]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2020.01.23-22.38.52:465][ 95]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.39.13:703][319]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.13:703][319]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.39.14:135][334]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.14:135][334]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.39.14:164][334]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-22.39.14:165][334]LogGeometryMode: Warning: Unable to resolve BoxBrush3 Brush in new BSP, see above
+[2020.01.23-22.39.14:165][334]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.39.14:427][346]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.14:427][346]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.23-22.39.14:861][367]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.14:861][367]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-22.39.15:308][389]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.15:308][389]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.39.15:340][389]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-22.39.15:340][389]LogGeometryMode: Warning: Unable to resolve BoxBrush10 Brush in new BSP, see above
+[2020.01.23-22.39.15:340][389]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.39.15:693][407]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.15:693][407]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.39.15:724][407]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-22.39.15:724][407]LogGeometryMode: Warning: Unable to resolve BoxBrush10 Brush in new BSP, see above
+[2020.01.23-22.39.15:724][407]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.39.16:062][424]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.16:062][424]LogEditorTransaction: Undo Apply Material to Surface
+[2020.01.23-22.39.16:428][441]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.16:429][441]LogEditorTransaction: Undo Modifier [Edit]
+[2020.01.23-22.39.16:787][457]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.16:787][457]LogEditorTransaction: Undo Apply Material to Surface
+[2020.01.23-22.39.17:186][476]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.17:186][476]LogEditorTransaction: Undo Apply Material to Surface
+[2020.01.23-22.39.17:548][493]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.17:548][493]LogEditorTransaction: Undo Apply Material to Surface
+[2020.01.23-22.39.17:891][510]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.17:892][510]LogEditorTransaction: Undo Apply Material to Surface
+[2020.01.23-22.39.18:237][527]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.18:237][527]LogEditorTransaction: Undo Apply Material to Surface
+[2020.01.23-22.39.18:619][545]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.18:619][545]LogEditorTransaction: Undo Apply Material to Surface
+[2020.01.23-22.39.18:953][561]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.18:953][561]LogEditorTransaction: Undo Apply Material to Surface
+[2020.01.23-22.39.19:328][579]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.19:329][579]LogEditorTransaction: Undo Apply Material to Surface
+[2020.01.23-22.39.19:728][599]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.19:728][599]LogEditorTransaction: Undo Apply Material to Surface
+[2020.01.23-22.39.20:145][619]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.20:146][619]LogEditorTransaction: Undo Apply Material to Surface
+[2020.01.23-22.39.20:481][635]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.20:481][635]LogEditorTransaction: Undo Apply Material to Surface
+[2020.01.23-22.39.20:881][655]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.20:881][655]LogEditorTransaction: Undo Apply Material to Surface
+[2020.01.23-22.39.21:298][676]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.21:298][676]LogEditorTransaction: Undo Apply Material to Surface
+[2020.01.23-22.39.29:217][ 88]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2020.01.23-22.39.29:217][ 88]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.39.35:777][427]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2020.01.23-22.39.35:777][427]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.39.42:526][775]Cmd: TRANSACTION UNDO
+[2020.01.23-22.39.42:526][775]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.39.42:560][775]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.01.23-22.39.42:560][775]LogGeometryMode: Warning: Unable to resolve BoxBrush4 Brush in new BSP, see above
+[2020.01.23-22.39.42:560][775]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.39.55:010][406]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2020.01.23-22.39.55:010][406]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.40.03:222][822]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.23-22.40.17:207][573]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2020.01.23-22.40.17:207][573]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.40.18:527][646]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.23-22.40.24:860][992]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.23-22.40.30:512][317]Cmd: TRANSACTION UNDO
+[2020.01.23-22.40.30:512][317]LogEditorTransaction: Undo Clicking on Actors
+[2020.01.23-22.40.31:029][335]Cmd: TRANSACTION UNDO
+[2020.01.23-22.40.31:029][335]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-22.40.31:803][378]Cmd: TRANSACTION UNDO
+[2020.01.23-22.40.31:803][378]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.40.38:531][744]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2020.01.23-22.40.38:531][744]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.40.58:578][835]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2020.01.23-22.40.58:578][835]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.41.10:900][508]LogGeometryMode: Warning: Unable to find BoxBrush6 Brush(s) in new BSP
+[2020.01.23-22.41.10:900][508]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.41.23:575][208]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2020.01.23-22.41.23:575][208]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.41.46:194][427]LogGeometryMode: Warning: Unable to find BoxBrush14 Brush(s) in new BSP
+[2020.01.23-22.41.46:194][427]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.41.55:995][975]LogGeometryMode: Warning: Unable to find BoxBrush14 Brush(s) in new BSP
+[2020.01.23-22.41.55:995][975]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.42.10:967][776]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2020.01.23-22.42.10:967][776]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.42.19:515][209]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2020.01.23-22.42.19:515][209]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.42.20:949][280]LogGeometryMode: Warning: Unable to find BoxBrush13 Brush(s) in new BSP
+[2020.01.23-22.42.20:949][280]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.42.22:499][353]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.23-22.42.41:871][371]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2020.01.23-22.42.41:871][371]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.42.46:652][610]Cmd: TRANSACTION UNDO
+[2020.01.23-22.42.46:652][610]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.42.47:791][654]Cmd: EDCALLBACK SURFPROPS
+[2020.01.23-22.42.51:103][826]Cmd: TRANSACTION UNDO
+[2020.01.23-22.42.51:103][826]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.42.51:594][842]Cmd: TRANSACTION UNDO
+[2020.01.23-22.42.51:594][842]LogEditorTransaction: Undo Select Brush Surface
+[2020.01.23-22.43.00:818][332]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2020.01.23-22.43.00:819][332]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.43.19:623][298]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2020.01.23-22.43.19:623][298]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.43.30:270][833]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2020.01.23-22.43.30:270][833]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.43.32:967][964]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2020.01.23-22.43.32:967][964]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.43.40:184][329]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2020.01.23-22.43.40:184][329]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.43.42:310][431]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.23-22.44.24:172][675]Cmd: TRANSACTION UNDO
+[2020.01.23-22.44.24:172][675]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.44.24:202][675]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-22.44.24:202][675]LogGeometryMode: Warning: Unable to resolve BoxBrush11 Brush in new BSP, see above
+[2020.01.23-22.44.24:202][675]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.44.24:803][696]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2020.01.23-22.44.24:803][696]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.44.40:995][563]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.44.53:357][514]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.44.57:864][796]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.45.06:882][296]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2020.01.23-22.45.06:882][296]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.45.09:707][442]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush8)
+[2020.01.23-22.45.10:737][496]Cmd: EDCALLBACK SURFPROPS
+[2020.01.23-22.45.15:879][792]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2020.01.23-22.45.15:879][792]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.45.19:867][ 10]Cmd: TRANSACTION UNDO
+[2020.01.23-22.45.19:867][ 10]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.45.19:898][ 10]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2020.01.23-22.45.19:898][ 10]LogGeometryMode: Warning: Unable to resolve BoxBrush8 Brush in new BSP, see above
+[2020.01.23-22.45.19:898][ 10]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.45.23:333][177]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2020.01.23-22.45.23:333][177]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.45.43:786][251]Cmd: TRANSACTION UNDO
+[2020.01.23-22.45.43:786][251]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.45.43:814][251]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.01.23-22.45.43:814][251]LogGeometryMode: Warning: Unable to resolve BoxBrush6 Brush in new BSP, see above
+[2020.01.23-22.45.43:814][251]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.45.46:318][374]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2020.01.23-22.45.46:318][374]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.46.07:268][517]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2020.01.23-22.46.07:268][517]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.46.13:182][855]LogGeometryMode: Warning: Unable to find BoxBrush10 Brush(s) in new BSP
+[2020.01.23-22.46.13:182][855]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.46.15:113][960]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.23-22.46.20:246][254]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2020.01.23-22.46.20:246][254]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.46.37:308][227]LogGeometryMode: Warning: Unable to find BoxBrush6 Brush(s) in new BSP
+[2020.01.23-22.46.37:308][227]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.46.43:297][532]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.47.13:093][202]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.47.15:858][366]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.47.19:827][573]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2020.01.23-22.47.20:085][573]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Minimal_Default45DCF1DC479ADA8D48656083F185992A.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.01.23-22.47.20:234][573]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Minimal_Default_BuiltData675977F041E56ACBB3AA90813C84C8C7.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.01.23-22.47.27:535][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.23-22.48.19:117][595]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1397, Buffer: 548710d0, Index Count: 0, Element: 0
+[2020.01.23-22.48.19:117][595]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1397, Buffer: 54873830, Index Count: 0, Element: 10
+[2020.01.23-22.48.19:117][595]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1397, Buffer: 54873830, Index Count: 0, Element: 23
+[2020.01.23-22.48.19:118][595]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1398, Buffer: 548710d0, Index Count: 0, Element: 0
+[2020.01.23-22.48.19:118][595]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1398, Buffer: 548710d0, Index Count: 0, Element: 1
+[2020.01.23-22.48.19:118][595]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1398, Buffer: 54873830, Index Count: 0, Element: 17
+[2020.01.23-22.48.19:118][595]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1398, Buffer: 54873830, Index Count: 0, Element: 18
+[2020.01.23-22.48.19:118][595]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1399, Buffer: 548710d0, Index Count: 0, Element: 0
+[2020.01.23-22.48.19:118][595]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1399, Buffer: 54873830, Index Count: 0, Element: 4
+[2020.01.23-22.48.19:118][595]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1399, Buffer: 54873830, Index Count: 0, Element: 9
+[2020.01.23-22.48.19:118][595]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1399, Buffer: 54873830, Index Count: 0, Element: 17
+[2020.01.23-22.48.19:119][595]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1400, Buffer: 548710d0, Index Count: 0, Element: 0
+[2020.01.23-22.48.19:119][595]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1400' invalid (560 verts, 0 indices).
+[2020.01.23-22.48.19:119][595]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1400.BodySetup_0 when we are unable to.
+[2020.01.23-22.48.19:119][595]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1401, Buffer: 54873830, Index Count: 0, Element: 2
+[2020.01.23-22.48.19:119][595]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1401, Buffer: 54873830, Index Count: 0, Element: 11
+[2020.01.23-22.48.19:119][595]LogPhysics: Error: Found bad index buffer when cooking UModelComponent physics data! Component: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1401, Buffer: 54873830, Index Count: 0, Element: 12
+[2020.01.23-22.49.25:620][626]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2020.01.23-22.49.27:381][730]Cmd: TRANSACTION UNDO
+[2020.01.23-22.49.27:381][730]LogEditorTransaction: Undo Brush Subtract
+[2020.01.23-22.49.30:533][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.50.20:590][  3]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.01.23-22.50.48:180][645]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.01.23-22.51.12:153][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.52.33:113][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.52.41:359][939]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2020.01.23-22.52.50:006][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.53.05:128][331]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.23-22.53.12:704][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.53.44:326][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.53.45:935][629]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2020.01.23-22.53.51:975][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.54.01:462][554]Cmd: TRANSACTION UNDO
+[2020.01.23-22.54.01:462][554]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.54.04:220][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.54.22:172][672]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.54.26:107][948]LogEditorViewport: Clicking Background
+[2020.01.23-22.54.27:560][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.54.38:833][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.54.46:653][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.55.01:771][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.55.06:695][907]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.55.24:747][888]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2020.01.23-22.55.24:747][888]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.55.29:557][143]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.23-22.55.39:996][705]Cmd: EDCALLBACK SURFPROPS
+[2020.01.23-22.55.45:415][ 17]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.23-22.55.50:113][280]LogGeometryMode: Warning: Unable to find BoxBrush4 Brush(s) in new BSP
+[2020.01.23-22.55.50:113][280]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.56.02:323][958]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.23-22.56.08:906][338]Cmd: EDCALLBACK SURFPROPS
+[2020.01.23-22.56.12:277][531]Cmd: EDCALLBACK SURFPROPS
+[2020.01.23-22.56.13:900][627]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush13)
+[2020.01.23-22.56.13:933][627]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.56.16:917][795]LogGeometryMode: Warning: Unable to find BoxBrush14 Brush(s) in new BSP
+[2020.01.23-22.56.16:917][795]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.56.20:253][982]LogGeometryMode: Warning: Unable to find BoxBrush13 Brush(s) in new BSP
+[2020.01.23-22.56.20:253][982]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.56.29:746][523]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2020.01.23-22.56.29:746][523]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.56.42:107][229]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2020.01.23-22.56.42:107][229]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.01.23-22.56.54:688][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.57.11:577][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.57.22:497][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.57.27:260][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.57.39:045][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.57.56:537][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.58.08:093][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.23-22.58.18:344][951]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.23-22.58.18:412][951]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.01.23-22.58.18:756][951]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Minimal_Default1775774C4052C4A21BC868B47826314C.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.01.23-22.58.19:086][951]LogSavePackage: Moving '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Saved/Minimal_Default_BuiltData7C537C9F438C0DB7F160C5950E34FB3D.tmp' to '../../../../../../Users/Administrator/Documents/Unreal Projects/kulkaaaaaa/kulka/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.01.23-22.58.39:192][285]Cmd: TRANSACTION UNDO
+[2020.01.23-22.58.39:193][285]LogEditorTransaction: Undo Move Actors
+[2020.01.23-22.58.39:236][285]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1700' invalid (2552 verts, 0 indices).
+[2020.01.23-22.58.39:236][285]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1700.BodySetup_0 when we are unable to.
+[2020.01.23-22.58.39:236][285]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1701' invalid (2552 verts, 0 indices).
+[2020.01.23-22.58.39:236][285]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1701.BodySetup_0 when we are unable to.
+[2020.01.23-22.58.39:236][285]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1702' invalid (2552 verts, 0 indices).
+[2020.01.23-22.58.39:237][285]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1702.BodySetup_0 when we are unable to.
+[2020.01.23-22.58.39:237][285]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1703' invalid (2552 verts, 0 indices).
+[2020.01.23-22.58.39:237][285]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1703.BodySetup_0 when we are unable to.
+[2020.01.23-22.58.39:237][285]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1704' invalid (2552 verts, 0 indices).
+[2020.01.23-22.58.39:237][285]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1704.BodySetup_0 when we are unable to.
+[2020.01.23-22.58.39:237][285]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1705' invalid (2552 verts, 0 indices).
+[2020.01.23-22.58.39:237][285]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1705.BodySetup_0 when we are unable to.
+[2020.01.23-22.58.39:237][285]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1706' invalid (2552 verts, 0 indices).
+[2020.01.23-22.58.39:237][285]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1706.BodySetup_0 when we are unable to.
+[2020.01.23-22.58.39:238][285]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1707' invalid (2552 verts, 0 indices).
+[2020.01.23-22.58.39:238][285]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_1707.BodySetup_0 when we are unable to.
+[2020.01.23-22.59.03:286][699]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.01.23-22.59.05:587][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
